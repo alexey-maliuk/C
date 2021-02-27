@@ -26,4 +26,3 @@ int is_anagram(const char *test, const char *original) {
     }
     return 1;
 }
-
